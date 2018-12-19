@@ -1,0 +1,22 @@
+font-family: 'Roboto', sans-serif;
+
+
+<!-- Row Start -->
+<div class="row justify-content-center text-center">
+<div class="col-xl-10 col-lg-11 col-md-12">
+<!-- Form Row Start -->
+<div class="input-group">
+<p class="n-tex">Subscribe to our Newsletter:</p>
+<div class="d-block d-md-none w-100"></div>
+<input type="email" class="form-control custon-form-control text-white" placeholder="Enter email Address">
+<div class="d-block d-sm-none w-100"></div>
+<div class="input-group-append" id="email">
+<div class="input-group-append">
+<button class="btn n-custom-btn" type="submit">Subscribe</button>
+</div>
+</div>
+<!-- Form Row End -->
+</div>
+</div>
+</div>
+<!-- Row End -->

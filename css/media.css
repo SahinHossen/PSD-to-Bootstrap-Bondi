@@ -1,0 +1,737 @@
+/* Extra small devices [COL] (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+
+	/* Header Start */
+	.custom-nav {
+		text-align: center;
+	}
+	.custom-nav ul li a {
+		padding: 5px 0 !important;
+	}
+	.custom-nav ul li:last-child a {
+		border-right: none;
+		margin-right: 0;
+	}
+	.custom-input {
+		width: 215px;
+		margin: 5px auto;
+	}
+	.search-icon {
+		margin: 0 auto;
+	}
+	.login-form {
+		margin-left: 0px;
+	}
+	.custom-btn {
+		width: 70%;
+		margin: 5px 0 !important;	
+	}
+	.modal-body .login-btn {
+		width: auto;
+		padding: 5px 15px;
+		border-radius: 5px;
+	}
+	/* Header Start */
+
+	/* Banner Section Start */
+	.banner-content	{
+		padding: 80px 0;
+	}
+	.banner-content h1 {
+		font-size: 30px;
+		letter-spacing: 1px;
+		word-spacing: 1px;
+	}
+	.banner-content p {
+		font-size: 14px;
+	}
+	.banner-content button {
+		margin-top: 20px;
+	}
+	/* Banner Section End */
+
+	/*Service Start*/
+	.service {
+		margin-top: 40px;
+		margin-bottom: 10px;
+	}
+	.section-title {
+		margin: 40px auto;
+	}
+	.service-title {
+		margin: 30px auto;
+	}
+	.custom-h1 {
+		font-size: 30px;
+	}
+	/*Service End*/
+
+	/* Recent Work Section Start */
+	.recent-work {
+		padding: 40px 0;
+	}
+	.recent-work-btn {
+		margin-top: 10px;
+	}
+	/* Recent Work Hover Effect */
+	.hover-content .hover-text {
+		padding-top: 50px;
+	}
+	/* Recent Work Hover Effect */
+	/* Recent Work Section End */
+
+	/* About Us Section Start */
+	.about-us {
+		margin: 40px auto;
+	}
+	.about-us-body-left {
+		margin-top: 0;
+		text-align: center;
+	}
+	.about-us-body-left p {
+		padding-top: 0px !important;
+		padding-bottom: 10px !important;
+	}
+	.about-us-body-left button {
+		margin-bottom: 15px !important;
+	}
+	/* About Us Section End */
+
+	/* Team Section Start */
+	.team {
+		padding-bottom: 15px;
+	}
+	.custom-card-body {
+		min-height: 0;
+	}
+	/* Team Section End */
+
+	/* Client Section Start */
+	.client {
+		margin: 20px auto;
+	}
+	/* Client Section End */
+
+	/* Start Project Section Start */
+	.project {
+		padding-bottom: 40px;
+	}
+	/* Start Project Section End */
+
+	/* Our Blog Section Start */
+	.our-blog {
+		margin: 40px auto;
+	}
+	.blog-text {
+		padding-bottom: 15px;
+	}
+	.blog-btn {
+		padding-top: 10px;
+	}
+	.blog-h .blog-h-content {
+		padding: 0px 5px;
+		margin: 5px auto;
+	}
+	.blog-h .blog-h-title {
+		font-size: 18px;
+	}
+	.blog-h .blog-h-post {
+		font-size: 14px;
+	}
+	.blog-h .blog-h-btn {
+		padding: 0px 10px;
+		margin-top: 2px;
+	}
+	/* Our Blog Section End */
+
+	/* Newsletter Section Start */
+	.newsletter {
+		padding: 40px 0;
+	}
+	.n-text {
+		font-size: 18px;
+		margin-top: 0;
+	}
+	.custom-form-control {
+		margin-bottom: 10px;
+	}
+	.n-custom-btn {
+		padding: 6px 20px;
+	}
+	/* Newsletter Section End */
+
+	/* Footer Start */
+	footer {
+		padding-top: 40px;
+		padding-bottom: 10px;
+	}
+	.footer-content-left,
+	.footer-content-right,
+	.footer-content {
+		text-align: center;
+		padding-bottom: 20px;
+	}
+	.footer-text p {
+		margin: 0;
+		line-height: 1.8;
+	}
+	.footer-content-left .footer-text p:nth-child(2) {
+		margin-top: 20px;
+	}
+	/* Footer End */
+}
+
+/* Small devices [SM] (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+
+	/* Header Start */
+	.custom-nav ul li a {
+		padding: 5px 0 !important;
+	}
+	.custom-nav ul li:last-child a {
+		border-right: none;
+		margin-right: 0;
+	}
+	.custom-input {
+		margin: 5px 10px 5px 0;
+	}
+	.login-form {
+		margin-left: 0px;
+	}
+	.custom-btn {
+		margin: 5px 0 !important;	
+	}
+	/* Header Start */
+
+	/* Banner Section Start */
+	.banner-content	{
+		padding: 100px 0;
+	}
+	/* Banner Section End */
+
+	/*Service Start*/
+	.service {
+		margin-top: 45px;
+		margin-bottom: 15px;
+	}
+	.section-title {
+		margin: 45px auto;
+	}
+	.service-title {
+		margin: 30px auto;
+	}
+	/*Service End*/
+
+	/* Recent Work Section Start */
+	.recent-work {
+		padding: 45px 0;
+	}
+	.recent-work-btn {
+		margin-top: 25px;
+	}
+	/* Recent Work Hover Effect */
+	.hover-content .hover-text {
+		padding-top:12px;
+	}
+	.hover-content .title {
+		padding-bottom: 2px;
+		margin-top: 0;
+	}
+	.hover-content .description {
+		padding:0 5px;
+	}
+	.hover-content .hover-btn {
+		margin-top: -18px;
+	}
+	/* Recent Work Hover Effect */
+	/* Recent Work Section End */
+
+	/* About Us Section Start */
+	.about-us {
+		margin: 45px auto;
+	}
+	.about-us-body-left {
+		margin-top: 0;
+	}
+	.about-us-body-left p {
+		padding-top: 0px !important;
+		padding-bottom: 10px !important;
+	}
+	.about-us-body-left button {
+		margin-bottom: 15px !important;
+	}
+	/* About Us Section End */
+
+	/* Team Section Start */
+	.team {
+		padding-bottom: 15px;
+	}
+	.custom-card-body {
+		min-height: 0;
+	}
+	.ccb {
+		min-height: 0;
+	}
+	/* Team Section End */
+
+	/* Client Section Start */
+	.client {
+		margin: 25px auto;
+	}
+	/* Client Section End */
+
+	/* Start Project Section Start */
+	.project {
+		padding-bottom: 45px;
+	}
+	/* Start Project Section End */
+
+	/* Our Blog Section Start */
+	.our-blog {
+		margin: 45px auto;
+	}
+	.blog-text {
+		text-align: center;
+		padding-bottom: 15px;
+	}
+	.blog-btn {
+		padding-top: 15px;
+	}
+	.blog-h .blog-h-content {
+		bottom:-120%;
+		padding: 0px 5px;
+		margin: 5px auto;
+	}
+	.blog-h .blog-h-title {
+		font-size: 18px;
+		margin: 0 0 2px;
+	}
+	.blog-h .blog-h-post {
+		font-size: 12px;
+		font-weight: 300;
+	}
+	.blog-h .blog-h-btn {
+		padding: 0px 10px;
+		margin-top: 2px;
+	}
+	/* Our Blog Section End */
+
+	/* Newsletter Section Start */
+	.newsletter {
+		padding: 45px 0;
+	}
+	.n-text {
+		font-size: 18px;
+		margin-top: 0;
+	}
+	.n-custom-btn {
+		padding: 6px 20px;
+		margin-left: -15px;
+	}
+	/* Newsletter Section End */
+
+	/* Footer Start */
+	footer {
+		padding-top: 45px;
+		padding-bottom: 15px;
+	}
+	.footer-content-left,
+	.footer-content-right,
+	.footer-content {
+		padding-bottom: 20px;
+	}
+	.footer-text p {
+		margin: 0;
+		line-height: 1.9;
+	}
+	.footer-content-left .footer-text p:nth-child(2) {
+		margin-top: 20px;
+	}
+	/* Footer End */
+
+}
+
+/* Medium devices [MD] (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+
+	/* Header Start */
+	.custom-nav ul li a {
+		padding: 5px 0 !important;
+	}
+	.custom-nav ul li:last-child a {
+		border-right: none;
+		margin-right: 0;
+	}
+	.custom-input {
+		margin: 5px 10px 5px 0;
+	}
+	.login-form {
+		margin-left: 0px;
+	}
+	.custom-btn {
+		margin: 5px 0 !important;	
+	}
+	/* Header Start */
+
+	/* Banner Section Start */
+	.banner-content	{
+		padding: 120px 0;
+	}
+	/* Banner Section End */
+
+	/*Service Start*/
+	.service {
+		margin: 50px auto;
+	}
+	.section-title {
+		margin: 50px auto;
+	}
+	/*Service End*/
+
+	/* Recent Work Section Start */
+	.recent-work {
+		padding: 50px 0;
+	}
+	.recent-work-btn {
+		margin-top: 30px;
+	}
+	/* Recent Work Hover Effect */
+	.hover-content .hover-text {
+		padding-top:12px;
+	}
+	.hover-content .title {
+		padding-bottom: 2px;
+		margin-top: -8px;
+	}
+	.hover-content .description {
+		padding:0 5px;
+	}
+	.hover-content .hover-btn {
+		margin-top: -18px;
+	}
+	/* Recent Work Hover Effect */
+	/* Recent Work Section End */
+
+	/* About Us Section Start */
+	.about-us {
+		margin: 50px auto;
+	}
+	.about-us-body-left {
+		margin-top: 0;
+	}
+	.about-us-body-left p {
+		padding-top: 0px !important;
+		padding-bottom: 10px !important;
+	}
+	.about-us-body-left button {
+		margin-bottom: 15px !important;
+	}
+	/* About Us Section End */
+
+	/* Team Section Start */
+	.team {
+		padding-bottom: 20px;
+	}
+	.custom-card-body {
+		min-height: 115px;
+	}
+	/* Team Section End */
+
+	/* Client Section Start */
+	.client {
+		margin: 30px auto;
+	}
+	/* Client Section End */
+
+	/* Start Project Section Start */
+	.project {
+		padding-bottom: 50px;
+	}
+	/* Start Project Section End */
+
+	/* Our Blog Section Start */
+	.our-blog {
+		margin: 50px auto;
+	}
+	.blog-btn {
+		padding-top: 30px;
+	}
+	.blog-h .blog-h-content {
+		padding: 0px 5px;
+		margin: -12px auto;
+	}
+	.blog-h .blog-h-title {
+		font-size: 18px;
+		margin: 0 0 2px;
+	}
+	.blog-h .blog-h-post {
+		font-size: 12px;
+		font-weight: 300;
+	}
+	.blog-h .blog-h-btn {
+		padding: 0px 10px;
+		margin-top: 2px;
+	}
+	/* Our Blog Section End */
+
+	/* Newsletter Section Start */
+	.newsletter {
+		padding: 50px 0;
+	}
+	.n-text {
+		font-size: 18px;
+		margin-top: 0;
+	}
+	.n-custom-btn {
+		padding: 6px 20px;
+		margin-left: -15px;
+	}
+	/* Newsletter Section End */
+
+	/* Footer Start */
+	footer {
+		padding: 50px 0;
+	}
+	.footer-content-left .footer-text p:nth-child(2) {
+		margin-top: 15px;
+		margin-bottom: 0px;
+	}
+	/* Footer End */
+
+}
+
+/* Large devices [LG](desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+	/* Header Start */
+	.custom-nav ul li a {
+		padding: 5px 10px !important;
+	}
+	/* Header Start */
+
+	/* Banner Section Start */
+	/* Banner Section End */
+
+	/*Service Start*/
+	.service {
+		margin: 55px auto;
+	}
+	.section-title {
+		margin: 55px auto;
+	}
+	/*Service End*/
+
+	/* Recent Work Section Start */
+	.recent-work {
+		padding: 55px 0;
+	}
+	.recent-work-btn {
+		margin-top: 35px;
+	}
+	/* Recent Work Hover Effect */
+	.hover-content .hover-text {
+		padding-top:12px;
+	}
+	.hover-content .title {
+		padding-bottom: 2px;
+	}
+	.hover-content .description {
+		padding:0 5px;
+	}
+	.hover-content .hover-btn {
+		margin-top: -18px;
+	}
+	/* Recent Work Hover Effect */
+	/* Recent Work Section End */
+
+	/* About Us Section Start */
+	.about-us {
+		margin: 55px auto;
+	}
+	.about-us-body-left {
+		margin-top: 0;
+	}
+	.about-us-body-left p {
+		padding-top: 0px !important;
+		padding-bottom: 10px !important;
+	}
+	.about-us-body-left button {
+		margin-top: 5px;
+	}
+	/* About Us Section End */
+
+	/* Team Section Start */
+	.team {
+		padding-bottom: 25px;
+	}
+	.custom-card-body {
+		min-height: 150px;
+	}
+
+	/* Team Member Hover */
+	.team-m {
+		background:#444;
+		position:relative;
+		overflow: hidden;
+	}
+	.team-m:after,
+	.team-m:before {
+		content:"";
+		width:42px;
+		height:32px;
+		border-radius:50%;
+		background:#10a5b8;
+		position:absolute;
+		top:-60px;
+		left:-10px;
+		opacity:0;z-index:1;
+		transition:all .35s ease;
+	}
+	.team-m:after {
+		top:auto;
+		left:auto;
+		bottom:-80px;
+		right:15px;
+	}
+	.team-m:hover:after,
+	.team-m:hover:before {
+		opacity:.75;
+		transform:scale(8);
+		transition-delay:.15s;
+	}
+	.team-m img {
+		width:100%;
+		height:auto;
+		transition:all .35s ease-out 0s;
+	}
+	.team-m:hover img {
+		opacity:.4;
+	}
+	.team-m .team-icon {
+		margin:0;
+		position:absolute;
+		bottom: 5px;
+		right: 0px;
+		z-index:2;
+		transform:scale(0);
+		transition:all .35s ease-out;
+	}
+	.team-m .team-icon li {
+		display: inline-block;
+	}
+	.team-m:hover .team-icon {
+		transform:scale(1);
+		transition-delay:.15s;
+	}
+	.team-m .team-icon li a {
+		display: block;
+		width: 35px;
+		height: 35px;
+		line-height: 35px;
+		background: #fff;
+		font-size: 22px;
+		color: #444;
+		margin-right: 5px;
+		position: relative;
+		transition: all .5s ease 0s;
+		border-radius: 50%;
+		text-align: center;
+	}
+	.team-m .team-icon li a:hover {
+		background:#444;
+		color:#fff;
+	}
+	.team-m .team-content {
+		padding: 5px 5px;
+		position:absolute;
+		top:0;
+		left:0;
+		z-index:1;
+	}
+	.team-m .team-title {
+		font-size: 17px;
+		font-weight: 700;
+		color:#fff;
+		margin:0 0 2px;
+		opacity:0;
+		transform:translate(-20px,-20px);
+		transition:all .35s ease-out;
+	}
+	.team-m:hover .team-title {
+		opacity:1;
+		transform:translate(0,0);
+		transition-delay:.15s;
+	}
+	.team-m .team-post{
+		display:inline-block;
+		font-size:14px;
+		color:#fff;
+		opacity:0;
+		transform:translate(-20px,-20px);
+		transition:all .35s ease-out;
+	}
+	.team-m:hover .team-post {
+		opacity:1;
+		transform:translate(0,0);
+		transition-delay:.15s;
+	}
+	/* Team Member Hover */
+
+	/* Team Member Hover */
+
+
+	/* Team Section End */
+
+	/* Client Section Start */
+	.client {
+		margin: 35px auto;
+	}
+	/* Client Section End */
+
+	/* Start Project Section Start */
+	.project {
+		padding-bottom: 55px;
+	}
+	/* Start Project Section End */
+
+	/* Our Blog Section Start */
+	.our-blog {
+		margin: 55px auto;
+	}
+	.blog-btn {
+		padding-top: 35px;
+	}
+	.blog-h .blog-h-content {
+		padding: 15px 15px;
+		margin: -30px auto;
+	}
+	/* Our Blog Section End */
+
+	/* Newsletter Section Start */
+	.newsletter {
+		padding: 55px 0;
+	}
+	.n-custom-btn {
+		padding: 6px 20px;
+		margin-left: -15px;
+	}
+	/* Newsletter Section End */
+
+	/* Footer Start */
+	footer {
+		padding: 55px 0;
+	}
+	.footer-content-left .footer-text p:nth-child(2) {
+		margin-top: 60px;
+		margin-bottom: 0px;
+	}
+	.fotter-btn {
+		margin: 35px auto;
+	}
+	/* Footer End */
+
+}
+
+/* Extra large devices [XL] (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+	
+}
